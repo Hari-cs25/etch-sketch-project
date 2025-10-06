@@ -28,6 +28,7 @@ body{
   width:100vw;
   display:flex;
   justify-content:center;
+  align-items:center;
   color:rgb(55, 0, 255);
   font-style:italic;
   text-decoration:overline underline;
